@@ -1,0 +1,7 @@
+*.log
+.DS_Store
+.env
+dist/
+node_modules/
+orders.json
+orders.json.tmp

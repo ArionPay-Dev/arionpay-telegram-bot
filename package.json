@@ -1,0 +1,12 @@
+{
+  "name": "arionpay-telegram-bot",
+  "version": "1.0.0",
+  "description": "Sell digital items in Telegram, paid in crypto through ArionPay straight to your own wallet.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "main": "bot.mjs",
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node bot.mjs" },
+  "dependencies": { "arionpay": "^1.0.0" }
+}

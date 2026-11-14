@@ -1,0 +1,4 @@
+[
+  { "id": "ebook", "name": "Crypto Basics eBook", "price": "9.90", "currency": "USD", "deliver": "Download: https://example.com/files/crypto-basics.pdf" },
+  { "id": "vip", "name": "VIP group (30 days)", "price": "25", "currency": "USD", "deliver": "Join here: https://t.me/+your-invite-link" }
+]
